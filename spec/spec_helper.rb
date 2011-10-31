@@ -1,6 +1,6 @@
 require 'pathname'
 require 'rubygems'
-require 'spec'
+require 'rspec'
 require 'dm-core/spec/setup'
 
 ENV['ADAPTER'] ||= 'in_memory'
